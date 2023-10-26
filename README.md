@@ -2,13 +2,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/itsherifAhmed">
-    <img src="assets/quran.png" alt="Logo" width="100" height="100">
+    <img src="image/Logo.png" alt="Logo" width="100" height="100">
   </a>
 
-![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
+![](https://img.shields.io/badge/google%20play-download-green?logo=google-play)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
-<h3 align="center">El Quran ElKareem</h3>
+<h3 align="center">قرآني</h3>
 
   <p align="center">
     El Quran ElKareem shared local DB and Local Json
@@ -111,7 +111,7 @@ El Quran El Kareem app is open-source  app for Android & ios. It is built with D
 
 | View One                                     | View Two  Page                               |
 |----------------------------------------------|----------------------------------------------|
-| <img src="snapshot/viewone.jpg" width="400"> | <img src="snapshot/viewtwo.jpg" width="400"> |
+| <img src="image/iPhone 14 & 15 Pro - 1.png" width="400"> | <img src="snapshot/viewtwo.jpg" width="400"> |
 
 
 
