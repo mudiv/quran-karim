@@ -5,13 +5,13 @@
     <img src="image/Logo.png" alt="Logo" width="100" height="100">
   </a>
 
-![](https://img.shields.io/badge/google%20play-download-green?logo=google-play)
+![](https://img.shields.io/badge/flutter-framework-green?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
 <h3 align="center">قرآني</h3>
 
   <p align="center">
-    حمل التطبيق قرآني من سوق بلي
+    حمل التطبيق قرآني 
     <br />
     <a href="View raw"><strong>تحميل التطبيق »</strong></a>
     <br />
