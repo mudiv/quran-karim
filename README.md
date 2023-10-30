@@ -13,7 +13,7 @@
   <p align="center">
     حمل التطبيق قرآني من سوق بلي
     <br />
-    <a href="https://play.google.com/store/apps/details?id=com.quran.dev"><strong>Download app »</strong></a>
+    <a href="View raw"><strong>تحميل التطبيق »</strong></a>
     <br />
     <br />
     
