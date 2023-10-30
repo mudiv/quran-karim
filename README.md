@@ -13,7 +13,7 @@
   <p align="center">
     حمل التطبيق قرآني 
     <br />
-    <a href="View raw"><strong>تحميل التطبيق »</strong></a>
+    <a href="https://github.com/mudiv/quran-karim/raw/main/%D9%82%D8%B1%D8%A2%D9%86%D9%8A.apk"><strong>تحميل التطبيق »</strong></a>
     <br />
     <br />
     
